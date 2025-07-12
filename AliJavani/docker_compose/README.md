@@ -9,5 +9,4 @@ postgreSQL با flask , cekery در ارتباط
 redis واسطه بین celeryو flask
 
 
-
-https://iutbox.iut.ac.ir/index.php/apps/files/files/12105877?dir=/cloud
+https://iutbox.iut.ac.ir/index.php/s/g9ffceER3PqmTsE
